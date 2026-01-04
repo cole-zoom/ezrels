@@ -2,6 +2,8 @@
 
 An Electron app for generating TREC-style qrels files from topic documents.
 
+![Homescreen](public/Homescreen.png)
+
 ## Installation
 
 ```bash
